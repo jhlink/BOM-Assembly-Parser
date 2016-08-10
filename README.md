@@ -2,7 +2,7 @@
 ##	Bill of Materials (BOM) and Pick 'N Place Assembly Parser
 
 ## Description
-	Currently, configuring the PnP machine for a board assembly has a certain number of cumbersome steps. 
+Currently, configuring the PnP machine for a board assembly has a certain number of cumbersome steps. 
 This program seeks to eliminate as many of them as possible by automating tedious and time consuming tasks. 
 
 ## Goals
@@ -11,4 +11,4 @@ This program seeks to eliminate as many of them as possible by automating tediou
 3. Generate the resulting .prg file, which is basically in .csv format with tab delimiters. 
 
 ## Notes
-	Though the utility of the program is clear, it will be more of an opportunity to exercise certain tools and programming paradigms, namely the following: OOD, Doxygen, and if possible Travis CI testing. 
+Though the utility of the program is clear, it will be more of an opportunity to exercise certain tools and programming paradigms, namely the following: OOD, Doxygen, and if possible Travis CI testing. 
